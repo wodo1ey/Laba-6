@@ -24,3 +24,5 @@ void main() {
 	process();
 	cout << a << "/" << b << " = " << otv(double(a), double(b));
 }
+
+// 2 задание
